@@ -185,3 +185,6 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
+
+---
+# [Paper Dashboard React](https://www.creative-tim.com/product/paper-dashboard-react?AFFILIATE=128200) by Creative-Tim
